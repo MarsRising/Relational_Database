@@ -1,3 +1,6 @@
+
+
+
 Logical Data Structure:
 ![image](https://github.com/user-attachments/assets/44912c38-d654-4c2d-ad44-c0c5a04088b2)
 # d597_task1
