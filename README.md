@@ -1,3 +1,5 @@
+Logical Data Structure:
+![image](https://github.com/user-attachments/assets/44912c38-d654-4c2d-ad44-c0c5a04088b2)
 # d597_task1
 Relational Database
 ![image](https://github.com/user-attachments/assets/eda7f029-3fa6-4401-94f1-b609348acb03)
