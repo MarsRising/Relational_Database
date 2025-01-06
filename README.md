@@ -1,4 +1,4 @@
-# d597_task1
+# D597_task1
 Logical Data Structure:
 
 ![image](https://github.com/user-attachments/assets/44912c38-d654-4c2d-ad44-c0c5a04088b2)
